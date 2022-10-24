@@ -34,6 +34,7 @@
         "allowSingleLine": true
       }
     ],
+    "linebreak-style": 0,
     "comma-dangle": [
       "error",
       "never"
